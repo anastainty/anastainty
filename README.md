@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Anastasia Intyakova
 
-<!--
+<!-- 
+
 **anastainty/anastainty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Student of FAMCS BSU. Proficient in Python and C++, also have fundamental knowledge in Swift, SQL and Java. Also is highly qualified in algorithms and data structures. Passionate about getting new experience, solving complex problems and imploving myself.
+
+- 🌍 Based in Minsk, Belarus
+- 🧠 Studying Data Analysis and Machine Learning
+- 🤝 I'm open to any kind of collaboration
+- ✉️ You can contact me via anastainty@gmail.com
