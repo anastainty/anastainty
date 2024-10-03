@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Anastasia Intyakova
+# Hi there 👋 My name is Anastasia Intyakova
 
 Welcome to my GitHub profile! I'm a passionate and dedicated student at the Faculty of Applied Mathematics and Computer Science, Belarusian State University (FAMCS BSU). I thrive on the challenge of solving complex problems and am always eager to learn and grow.
 
