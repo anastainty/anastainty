@@ -1,23 +1,28 @@
-## Hi there 👋 My name is Anastasia Intyakova
+# Hi there 👋 I'm Anastasia Intyakova
 
-<!-- 
+Welcome to my GitHub profile! I'm a passionate and dedicated student at the Faculty of Applied Mathematics and Computer Science, Belarusian State University (FAMCS BSU). I thrive on the challenge of solving complex problems and am always eager to learn and grow.
 
-**anastainty/anastainty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 **Education**: Currently pursuing a degree in Data Analysis and Machine Learning.
+- 🌍 **Location**: Based in Minsk, Belarus.
+- 💬 **Language Proficiency**: C1 level in English.
+- 💻 **Skills**:
+  - **Programming Languages**: Proficient in Python and C++. I also have a solid foundation in Swift, SQL, and Java.
+  - **Expertise**: Highly skilled in algorithms and data structures.
+- 🌱 **Interests**: Passionate about acquiring new experiences and enhancing my skills in technology and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Student of FAMCS BSU. Proficient in Python and C++, also have fundamental knowledge in Swift, SQL and Java. Also is highly qualified in algorithms and data structures. Passionate about getting new experience, solving complex problems and imploving myself.
+## 🤝 Collaboration
 
-- 🌍 Based in Minsk, Belarus
-- 🧠 Studying Data Analysis and Machine Learning
-- 🤝 I'm open to any kind of collaboration
-- ✉️ You can contact me via anastainty@gmail.com
+I'm open to collaborating on projects related to data analysis, machine learning, and software development. Feel free to reach out if you have interesting ideas or opportunities.
+
+## 📫 Contact
+
+- **Email**: [anastainty@gmail.com](mailto:anastainty@gmail.com)
+- **Alternate Email**: [nastintyakova@gmail.com](mailto:nastintyakova@gmail.com)
+
+## ⚡ Fun Fact
+
+I believe in continuous improvement and am always looking for ways to push the boundaries of what I can accomplish.
+
+Let's connect and create something amazing together!
