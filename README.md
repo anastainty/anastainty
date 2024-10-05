@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated student at the Facu
 - 🌍 **Location**: Based in Minsk, Belarus.
 - 💬 **Language Proficiency**: C1 level in English.
 - 💻 **Skills**:
-  - **Programming Languages**: Proficient in Python and C++. I also have a solid foundation in Swift, SQL, and Java.
+  - **Programming Languages**: Proficient in Python and C++. I also have a solid foundation in Swift, C#, SQL, and Java.
   - **Expertise**: Highly skilled in algorithms and data structures.
 - 🌱 **Interests**: Passionate about acquiring new experiences and enhancing my skills in technology and analytics.
 
